@@ -17,7 +17,8 @@
   # Habilitamos nuestro helper en el archivo autoload en la carpeta config:
   $autoload['helper'] = array('validacion');
   
-  # En nuestro controlador podremos llamar nuestro helper valida_campo(variable,reglas,nombre del campo):
+  # En nuestro controlador podremos llamar nuestro helper:
+  # valida_campo(variable,reglas,nombre del campo):
   
   $error = '';
   $error .= valida_campo($email, 'not_empty|email|minlength:5|maxlength:80', 'Correo');
