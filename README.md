@@ -1,6 +1,6 @@
 # Introducción
 
-- Este es un helper creado para tener nuestra propia reglas de validacion independiente de codeigniter.
+- Este es un helper creado para tener nuestras propias reglas de validacion independiente de codeigniter.
 
 # Requerimientos
 - Instalamos el paquete [Respect\Validation](https://respect-validation.readthedocs.io/en/latest/installation/)
