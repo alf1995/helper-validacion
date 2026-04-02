@@ -3,7 +3,7 @@
 - Este es un helper creado para tener nuestras propias reglas de validacion independiente de codeigniter.
 
 # Requerimientos
-- Instalamos el paquete [Respect\Validation](https://respect-validation.readthedocs.io/en/latest/installation/)
+- Instalamos el paquete [Respect\Validation](https://respect-validation.readthedocs.io/en/latest/getting-started/#installation)
 - PHP 7.3 o superior
 - Codeigniter 3
 
